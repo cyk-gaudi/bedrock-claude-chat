@@ -6,9 +6,9 @@ const translation = {
       },
     },
     app: {
-      name: 'Bedrock Claude Chat',
-      nameWithoutClaude: 'Bedrock Chat',
-      inputMessage: 'Can I Help You?',
+      name: 'CASE Bedrock GPT',
+      nameWithoutClaude: 'Bedrock GPT',
+      inputMessage: 'What Can We Help You With Today?',
       starredBots: 'Starred Bots',
       recentlyUsedBots: 'Recently Used Bots',
       conversationHistory: 'History',
